@@ -4,8 +4,9 @@ Use the Haskell cabal-install to install this library:
   cabal build &&
   cabal install
 
-Launch the command above in your 'haha' project directory. I will call it $HAHA. After cabal has finished building, 
-a directory $HAHA/dist will be created. Navigate to $HAHA/dist/build/rotating-lambda and execute the file 'rotating-lambda'.
+Launch the command above in your 'haha' project directory. I will call it $HAHA. After cabal has finished building, a directory $HAHA/dist will be created. Navigate to $HAHA/dist/build/rotating-lambda and execute the file 'rotating-lambda'.
+
+Alternatively you can launch the project using the command 'cabal run'.
 
 Please report problems to: sfvisser@cs.uu.nl
 
